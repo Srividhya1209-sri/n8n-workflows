@@ -1,0 +1,30 @@
+{
+	"name": "python-extension-pack",
+	"displayName": "Python Extension Pack",
+	"description": "Collection of extensions related to python",
+	"version": "3.0.0",
+	"publisher": "LeoJhonSong",
+	"icon": "python-logo.png",
+	"repository": "https://github.com/LeoJhonSong/Python-Extension-Pack",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"ms-python.flake8",
+		"ms-python.autopep8",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"VisualStudioExptTeam.intellicode-api-usage-examples",
+		"ms-toolsai.jupyter",
+		"njpwerner.autodocstring"
+	],
+	"__metadata": {
+		"installedTimestamp": 1748953724030,
+		"targetPlatform": "undefined",
+		"size": 67661
+	}
+}
